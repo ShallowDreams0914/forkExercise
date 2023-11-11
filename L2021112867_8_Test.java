@@ -9,7 +9,7 @@ import org.junit.Test;
 
 public class L2021112867_8_Test {
     private final Solution8 sol = new Solution8();
-
+//good test
     /**
      * 测试不期望的输入
      */
